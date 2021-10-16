@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ConcretizedSecondaryIndexes","A read/write set state with no secondary indexes and no unbound formals or type variables"],["NormalizedReadWriteSetAnalysis",""]]});
